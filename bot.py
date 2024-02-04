@@ -3,7 +3,7 @@ from telebot import TeleBot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton
 from dbmanager import *
 
-TOKEN = '6623356632:AAGK1EqP3ml2fnHg3dQZVOZjFU8EXCgHtcs'
+TOKEN = ''
 bot = TeleBot(TOKEN)
 
 
